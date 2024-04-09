@@ -1,24 +1,33 @@
-# How To use ?
 
-1. create google form
-2. After creating the form select the "<> script editor" menu
-![github-small](https://i.ibb.co/f0Bh5pF/Screenshot-2024-03-17-at-12-23-56.png)
+## Documentation - how to create discord webhook?
 
-3. paste script googleFormToDiscord.gs in google script and save (dont forget to change KEY to your discord webhook)
-  
-4. Once finished then select the trigger menu
-![github-small](https://i.ibb.co/KVPC4SN/Screenshot-2024-03-17-at-12-36-25.png)
-   
-5. Then match the trigger according to the image below
-![github-small](https://i.ibb.co/VjNfSnH/Screenshot-2024-03-17-at-12-36-52.png)
-   
-6. Save
-7. Done, You can fill out the google form and try it
-
-this is my result :
- ![github-small](https://i.ibb.co/6mc0bzj/Screenshot-2024-03-17-at-12-49-23.png)
+[Read here](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks)
 
 
 
-   
-   
+## How to use?
+
+- create google form
+- After creating the form select the "<> script editor" menu
+![App Screenshot](https://i.imgur.com/fpREu9C.png)
+- Paste script googleFormToDiscord.gs in google script and save (dont forget to change KEY to your discord webhook)
+- Once finished then select the trigger menu
+![App Screenshot](https://i.imgur.com/StVRntM.png)
+- Then match the trigger according to the image below
+![App Screenshot](https://i.imgur.com/qMJsKNy.png)
+- Save
+- Done, You can fill out the google form and try it
+- here's my result :
+![App Screenshot](https://i.imgur.com/wX3RBR4.png)
+
+
+
+## Any question?
+
+For any question, email kenn@phantom-thieves.org .
+
+
+## Authors
+
+- [@guruhkennedy](https://www.github.com/guruhkennedy)
+
